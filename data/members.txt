@@ -1,0 +1,15 @@
+S001;Ane Etxeberria;ane.etxeberria@example.com;L050
+S002;Mikel Goikoetxea;mikel.goikoetxea@example.com;
+S003;Amaia Larrañaga;amaia.larranaga@example.com;L001
+S004;Iker Zubiria;iker.zubiria@example.com;
+S005;Nerea Aguirre;nerea.aguirre@example.com;L094
+S006;Jon Urrutia;jon.urrutia@example.com;
+S007;Leire Ibarra;leire.ibarra@example.com;L004
+S008;Asier Mendizabal;asier.mendizabal@example.com;
+S009;Maialen Arrieta;maialen.arrieta@example.com;
+S010;Unai Garmendia;unai.garmendia@example.com;L035
+S011;Itziar Olaizola;itziar.olaizola@example.com;
+S012;Xabier Lasa;xabier.lasa@example.com;L082
+S013;Oihana Bengoetxea;oihana.bengoetxea@example.com;
+S014;Gorka Arana;gorka.arana@example.com;
+S015;Ainhoa Zabala;ainhoa.zabala@example.com;
