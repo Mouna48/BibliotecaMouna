@@ -14,4 +14,4 @@ class Member:
     def __str__(self):
         """Readable text of the member, used by print(member)."""
         status = f"Has book {self.book_code}" if self.has_book() else "No book"
-        return f"[{self.member_code}] {self.name} - {self.email} | {status}"
+        return f"[{self.member_code}] {self.name} - {self.email} | {status}" 

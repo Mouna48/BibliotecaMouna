@@ -1,4 +1,4 @@
-class book:
+class Book:
     """Represents a book in the library."""
     def __init__(self, code, title, author, year, category, member_code=None):
         self.code = code
