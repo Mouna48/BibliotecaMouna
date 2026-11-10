@@ -91,7 +91,7 @@ class Menu:
                     self.add_member()
             elif option == "8":
                 self.save_and_exit()
-        def lend_book(self):
+    def lend_book(self):
         """Option 4: lend a book to a member."""
         book_code = input("Book code: ")
         member_code = input("Member code: ")
