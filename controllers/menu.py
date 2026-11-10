@@ -91,3 +91,21 @@ class Menu:
                     self.add_member()
             elif option == "8":
                 self.save_and_exit()
+        def lend_book(self):
+        """Option 4: lend a book to a member."""
+        book_code = input("Book code: ")
+        member_code = input("Member code: ")
+        try:
+            self.library.lend_book(book_code, member_code)
+            print("Book lent")
+        except LoanError as e:
+            print("Error:", e, "- code:", e.code)
+
+    def return_book(self):
+        """Option 5: return the book that a member has."""
+        member_code = input("Member code: ")
+        try:
+            self.library.return_book(member_code)
+            print("Book returned")
+        except LoanError as e:
+            print("Error:", e, "- code:", e.code)
